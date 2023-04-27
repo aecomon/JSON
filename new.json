@@ -1,1 +1,5 @@
-{ "name":"Vavakin Ivan", "pet":"pug", "salary":70000 }
+{ 
+  "name":"Vavakin Ivan",
+  "pet":"pug",
+  "salary":70000 
+}
