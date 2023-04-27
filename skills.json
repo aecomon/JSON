@@ -1,1 +1,6 @@
-{ "bug report", "test cases", "test design", "postman" }
+{
+  "bug report",
+  "test cases",
+  "test design",
+  "postman"
+}
